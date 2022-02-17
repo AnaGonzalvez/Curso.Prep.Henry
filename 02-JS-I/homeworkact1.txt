@@ -1,0 +1,21 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+
+- Permiten almacenar datos/algo para poder utilizar en el código.
+
+Strings
+
+- Es un tipo de dato que almacena una cadena de caracteres. 
+
+Funciones (argumentos, return)
+
+- Una función permite realizar una tarea específica dentro del código. Puede recibir argumentos, que son valores que toman las variables y serán utilizados dentro de la función. Y puede que estas funciones retornen un valor para poder utilizar más adelante en el código y para ellos se utiliza el comando return.
+
+Declaraciones if
+
+- La declaración if permite realizar una comparación entre valores/variables y de acuerdo si dicha comparación es verdadera o falsa, ejecutará la linea de codigo siguiente o el código entre corchetes o saltará a la línea siguiente o al código que prosigue a los corchetes.
+
+Valores booleanos (true, false)
+
+- Son valores que se basan en la lógica booleana, donde solo exiten dos valores posibles: 0 o 1, verdadero (true) o falso (salse).
