@@ -1,0 +1,14 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+a) for
+
+Es un bucle que se repite continuamente, donde se crea una variable, la cual permitirá establecer una condición de finalización del bucle y aumentará en cada ingreso al bucle. Una vez que dicha condición es falsa, el bucle "for" finaliza. 
+Dentro de este "for" se establecerán líneas de código y se ejecutarán en cada ingreso al bucle.
+
+b) &&, ||, !
+
+Los operadores booleanos permiten comparar dos condiciones y establecer dos resultados posibles: verdadero (true) o falso (false). Dentro de los operadores booleanos se encuentran:
+
+- AND (&&): este operador compara dos condiciones y si ambas son verdadera el resultado es verdadero pero si una de ellas es falsa o ambas son falsas, el resultado el falso.
+- OR (||): este operador compara dos condiciones y si una de ellas o ambas son verdaderas, el resultado es verdadero pero si ambas son falsas, el resultado el falso.
+- NOT (!): este operador siempre arroja como resultado la condición negada, osea su valor contrario, si la condición es verdadera arroja falso y viceversa.
