@@ -1,0 +1,22 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+
+Es un contenedor de elementos, que a diferencia de las funciones, estos no poseen un orden ni están identificados por un índice numérico. Esos elementos pueden ser strings, números, booleanos, funciones o incluso otros objetos.
+
+	* Propiedades
+
+Las propiedades hacen referencia a los distintos tipos de elementos que hay dentro de un objeto, las cuales se componen de lo que se llama clave:valor, esto permite identificarlos mediante el nombre de la clave y poder saber que valor contiene dentro de ella.
+
+	* Métodos
+
+Se denominan así a las funciones que se encuentran definidas dentro de un objeto. 
+
+	* Bucle `for…in`
+
+Para poder acceder de manera iterada a los elementos que componen un objeto se utiliza "for ... in", el cual permitirá recorrer cada par clave:valor dentro del objeto.
+
+	* Notación de puntos vs notación de corchetes
+
+Existen dos formas de acceder a los valores que contienen cada par clave:valor dentro de un objeto, una de ellas es mediante la notación de puntos que consiste en el nombre del objeto + "." + la propiedad y la otra consiste en el nombre del objeto + "[ propiedad ]". La primera es más sencilla de utilizar cuando se está trabajando con varios objetos y facilita su escritura,
+se diferencia de la notación de corchetes ya que accede a los valores solo cuando la propiedad está escrita de manera literal luego del punto.
