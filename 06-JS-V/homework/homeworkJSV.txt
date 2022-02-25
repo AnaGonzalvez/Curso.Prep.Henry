@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`
+
+Prototype es una propiedad de las clases que permite establecer un método una vez y luego mediante la creación de múltiples objetos se puede dar acceso a ese método a cada uno de esos objetos. De esta manera se ve reducida el espacio de la memoria que ocupan la gran cantidad de propiedades de los objetos.
+
+* _Constructors_ (de Clases)
+
+Un constructor o clase permite crear múltiples objetos que comparten propiedades entre sí, sin tener que estar repitiendo lineas de código, por ende funciona como una plantilla donde se definen propiedades y métodos que van a poseer varios objetos en común.
