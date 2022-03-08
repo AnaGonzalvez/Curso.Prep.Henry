@@ -1,0 +1,8 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Funciones Callback
+
+Las funciones callbacks son funciones que son pasadas como argumentos a otras funciones, siendo invocadas o llamadas dentro de estas otras funciones para poder realizar una acción o rutina.
+Para poder utilizar las funciones callbacks se necesitan crear las funciones a ser llamadas dentro de otras, pudiendo ser tanto fuera como dentro de la nueva función, y se debe utilizar un nombre generico 
+o como convención se utiliza "cb". De esta manera, al invocarse una función y pasarle como parámetro otra función, en la función invocada ingresará el parámetro callback y se invocará el callback 
+con los argumentos a invocar la función que es utilizada como callback.
