@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-image: url ('https://www.google.com/search?q=fondos&sxsrf=APq-WBuQ8kGJSf4dOs80i7H_LOd4aw9dsQ:1646852588765&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjMg7P827n2AhVIqJUCHcwDCZkQ_AUoAXoECAEQAw&biw=1536&bih=721&dpr=2.5#imgrc=EOEwR8MVewmZuM');
+    background-image: url('http://blogs.ffyh.unc.edu.ar/escueladeletras/files/2016/10/fondo-azul.jpg');
 }
 h1 {
     color:olive;
@@ -14,7 +14,7 @@ img {
     width: 500px;
     color:gray;
     padding: 50px;
-    border: 1px thick double black;
+    border: 1px thick black;
 }
 #spanId {
     text-align: center;
