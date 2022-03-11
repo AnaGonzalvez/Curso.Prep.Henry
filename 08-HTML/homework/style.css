@@ -1,0 +1,33 @@
+body {
+    background-color: greenyellow;
+}
+img {
+    width: 200px;
+    border-style: outset;
+    position: fixed;
+    top: 20px;
+    left: 100px;
+
+}
+.Titulo1 {
+    font-size: 42px;
+    text-align: center;
+    text-decoration:underline;
+}
+.Titulo2{
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+    left: 350px;
+    font-style: italic;
+}
+.Titulo3{
+    font-size: 18px;
+    position: relative;    
+    left: 350px;    
+}
+.letra{
+    font-size: 18px;
+    position: relative;    
+    left: 450px;
+}
